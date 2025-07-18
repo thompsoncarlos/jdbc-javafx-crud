@@ -1,4 +1,4 @@
-﻿# Gerenciados de Produtos com JDBC e JavaFX
+﻿# Gerenciador de Produtos com JDBC e JavaFX
 
 Este é um projeto de **Gerenciador de Produtos** desenvolvido em **Java 22**, com persistência de dados via **JDBC** e **SQLite**, e interface gráfica construída com **JavaFX**.
 
